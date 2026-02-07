@@ -23,7 +23,6 @@
 
 ## Blog
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7356630819706228736" target="_blank">Subscribe on LinkedIn</a>
-## Latest Blog Posts
 
 ## Connect
 
