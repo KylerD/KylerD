@@ -15,7 +15,7 @@
 
 ## Current Projects
 
-- 🤠 **[VibeCheck](https://github.com/KylerD/vibe-check)** — You built something with AI. You can't read the code. Is it actually ready to ship?
+- 🤠 **[VibeCheck](https://github.com/Hypership-Software/vibe-check)** — You built something with AI. You can't read the code. Is it actually ready to ship?
 - 🔫 **[Loadout](https://github.com/KylerD/loadout)** — An opinionated Next.js scaffolding CLI that wraps `create-next-app` and extends it with optional integrations for common SaaS building blocks.
 - 🐞 **[motes](https://github.com/KylerD/motes)** — A self-evolving pixel world.
 
